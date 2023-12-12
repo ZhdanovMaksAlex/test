@@ -17,6 +17,15 @@ function App() {
         >
           Learn React
         </a>
+        <div>
+          я зоздал новую ветку!
+        </div>
+        <div>
+          сделал 2 блок с текстом
+        </div>
+        <div>
+          сделалал 3 блок
+        </div>
       </header>
     </div>
   );
